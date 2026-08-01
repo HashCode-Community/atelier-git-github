@@ -1,0 +1,3 @@
+[submodule "labs/git-playground"]
+	path = labs/git-playground
+	url = https://github.com/HashCode-Community/atelier-git-github.git
